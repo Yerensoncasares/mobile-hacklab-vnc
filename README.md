@@ -19,11 +19,11 @@ Instrucciones de Instalación
 
 Puedes usar curl con este comando:
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Yerensoncasares/mobile-hacklab-vnc/principal/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/Yerensoncasares/mobile-hacklab-vnc/main/install.sh)"
 ```
 O también puedes usar wget de esta forma:
 ```
-bash -c "$(wget -qO- https://raw.githubusercontent.com/Yerensoncasares/mobile-hacklab-vnc/principal/install.sh)"
+bash -c "$(wget -qO- https://raw.githubusercontent.com/Yerensoncasares/mobile-hacklab-vnc/main/install.sh)"
 ```
 Desinstalación
 
