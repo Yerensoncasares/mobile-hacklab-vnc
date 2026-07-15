@@ -18,7 +18,9 @@ Instrucciones de Instalación
 ​Abre tu cliente VNC en el Smart TV, introduce esos datos y ¡listo!
 
 Puedes usar curl con este comando:
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Yerensoncasares/mobile-hacklab-vnc/principal/instalar.sh)"
+
+```bash -c "$(curl -fsSL https://raw.githubusercontent.com/Yerensoncasares/mobile-hacklab-vnc/principal/instalar.sh)"```
 
 O también puedes usar wget de esta forma:
-bash -c "$(wget -qO- https://raw.githubusercontent.com/Yerensoncasares/mobile-hacklab-vnc/principal/instalar.sh)"
+
+```bash -c "$(wget -qO- https://raw.githubusercontent.com/Yerensoncasares/mobile-hacklab-vnc/principal/instalar.sh)"```
