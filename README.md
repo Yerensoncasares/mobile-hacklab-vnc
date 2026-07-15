@@ -25,3 +25,10 @@ O también puedes usar wget de esta forma:
 ```
 bash -c "$(wget -qO- https://raw.githubusercontent.com/Yerensoncasares/mobile-hacklab-vnc/principal/instalar.sh)"
 ```
+Desinstalación
+
+Para eliminar completamente el Lab del dispositivo, ejecuta el siguiente comando en Termux:
+
+```
+bash ./desinstalar.sh
+```
